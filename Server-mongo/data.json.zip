@@ -1,0 +1,16 @@
+works:
+{
+    "_id" : ObjectId("5f756b1ef7fab1f8b96ea898"),
+    "workName" : "Japnaese Blog",
+    "workDesc" : "Hit Search approached for a mutual client - japanese food blog",
+    "workMainImage" : "1.jpg",
+    "workGalImages" : "1.jpg, 2.jpg",
+    "workDate" : "1-10-2020",
+    "workTags" : "wordpress, wp cpt, bootstrap",
+    "workCat" : "wordpress"
+}
+workCats
+{
+    "_id" : ObjectId("5f756b70f7fab1f8b96ea8ab"),
+    "workCatName" : "wordpress"
+}
